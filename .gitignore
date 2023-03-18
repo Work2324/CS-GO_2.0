@@ -1,7 +1,7 @@
 .vs/
 Library/
 Logs/
-obg/
+obj/
 Packages/
 ProjectSettings/
 Temp/
