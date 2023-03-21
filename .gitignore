@@ -8,3 +8,5 @@ Temp/
 UserSettings/
 .vsconfig
 Assembly-CSharp.csproj
+*.meta
+*.json
